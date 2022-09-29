@@ -6,6 +6,7 @@
     font-size: xx-large;
     color: yellow;
     margin-top: 40px;
+    
 }
 
 .a{
@@ -13,6 +14,7 @@
     background-image: linear-gradient(rgb(237, 165, 237),rgb(223, 223, 159),rgb(166, 225, 227));
     width: 600px;
     text-align: center;
+    margin-left: 500px;
 }
 
 .b{
@@ -20,4 +22,8 @@
     background-image: radial-gradient(white,yellow,white);
     width: fit-content;
     padding: 20px;
+    margin-left: 500px;
+}
+.AB{
+    text-align: center;
 }
