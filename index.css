@@ -1,0 +1,23 @@
+*{
+    background-color: red;
+}
+.A{
+    text-align: center;
+    font-size: xx-large;
+    color: yellow;
+    margin-top: 40px;
+}
+
+.a{
+    margin: 50px;
+    background-image: linear-gradient(rgb(237, 165, 237),rgb(223, 223, 159),rgb(166, 225, 227));
+    width: 600px;
+    text-align: center;
+}
+
+.b{
+    margin: 50px;
+    background-image: radial-gradient(white,yellow,white);
+    width: fit-content;
+    padding: 20px;
+}
